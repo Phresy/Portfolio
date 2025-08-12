@@ -1,0 +1,28 @@
+{
+  "projects":[
+    {
+      "title":"Clean Waste Cycle",
+      "summary":"On-demand waste collection connecting users with nearby collectors. Role: Lead front-end developer. Built with Firebase and JavaScript.",
+      "tech":["HTML","CSS","JavaScript","Firebase"],
+      "image":"images/project-cleanwaste.jpg",
+      "live":"https://cleanwastecycle.netlify.app/",
+      "code":"https://github.com/ProsperOG/clean-waste-cycle"
+    },
+    {
+      "title":"VelvetZone",
+      "summary":"Networking platform for Ghana & Nigeria with premium provider listings. Role: Full-stack dev (UI + integrations).",
+      "tech":["HTML","CSS","JavaScript","Cloudinary","Firebase"],
+      "image":"images/project-velvet.jpg",
+      "live":"https://velvetzone.example",
+      "code":"https://github.com/ProsperOG/velvetzone"
+    },
+    {
+      "title":"QuickBook",
+      "summary":"Hotel booking UI prototype (no backend). Role: Frontend developer — responsive booking flows & UI animations.",
+      "tech":["HTML","CSS","JavaScript"],
+      "image":"images/project-quickbook.jpg",
+      "live":"https://quickbook.example",
+      "code":"https://github.com/ProsperOG/quickbook"
+    }
+  ]
+}
